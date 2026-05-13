@@ -1,0 +1,42 @@
+{
+  "businessName": "JFB Ventures & Floracity Enterprise",
+  "industry": "Manufacturing",
+  "tone": "professional",
+  "tagline": "Excellence in Manufacturing, Delivered with Precision",
+  "sections": [
+    {
+      "id": "hero",
+      "name": "Hero",
+      "copy": "JFB Ventures & Floracity Enterprise - Your Trusted Manufacturing Partner in Lagos. We deliver quality manufacturing solutions with precision and reliability. Located at the heart of Isolo, serving businesses across Nigeria with excellence.",
+      "imagePrompt": "Modern Nigerian manufacturing facility exterior with clean industrial architecture, Lagos skyline in background, professional workers in safety gear, bright daylight, sharp focus on metal structures and organized warehouse space, photorealistic, high quality",
+      "layout": "centered"
+    },
+    {
+      "id": "about",
+      "name": "About Us",
+      "copy": "JFB Ventures & Floracity Enterprise is a leading manufacturing company based in Oshodi/Isolo, Lagos. We combine years of industry expertise with modern manufacturing processes to deliver exceptional products and services to our clients. Our commitment to quality, timely delivery, and customer satisfaction has made us a preferred partner for businesses across Nigeria. Operating from our facility at 12b Biodun Komolafe Street off Fashuen Road by Century Bus Stop, Ago Palace Way, Okota-Isolo, we maintain the highest standards in every project we undertake.",
+      "imagePrompt": "Professional Nigerian manufacturing team working together in modern factory setting, diverse group of engineers and technicians collaborating around machinery, Lagos industrial environment, natural lighting through large windows, safety equipment visible, photorealistic detail",
+      "layout": "split"
+    },
+    {
+      "id": "services",
+      "name": "Our Services",
+      "copy": "We offer comprehensive manufacturing solutions tailored to meet the unique needs of Nigerian businesses. Our services include custom manufacturing, product development, quality assurance, industrial fabrication, and supply chain management. With state-of-the-art equipment and skilled professionals, we handle projects of all scales - from small batch production to large industrial orders. Every service is executed with attention to detail, ensuring products meet international quality standards while remaining cost-effective for the Nigerian market.",
+      "imagePrompt": "Nigerian manufacturing floor showcasing various production processes, CNC machines, welding stations, assembly lines, organized tools and materials, workers in protective gear operating equipment, clean industrial space with excellent lighting, photorealistic",
+      "layout": "grid"
+    },
+    {
+      "id": "contact",
+      "name": "Contact Us",
+      "copy": "Ready to discuss your manufacturing needs? Get in touch with JFB Ventures & Floracity Enterprise today. Our team is available to provide consultations, quotes, and support for your project. Visit us at our facility in Okota-Isolo or reach out via phone, WhatsApp, or email. We look forward to partnering with you.",
+      "imagePrompt": "Professional Nigerian business consultation scene, modern office meeting room with manufacturing company representatives and client discussing project plans, Lagos cityscape visible through window, professional atmosphere, photorealistic lighting",
+      "layout": "default"
+    }
+  ],
+  "contact": {
+    "phone": "+234 806 660 8276",
+    "email": "info@jfbventures.ng",
+    "address": "12b Biodun Komolafe Street, Off Fashuen Road, By Century Bus Stop, Ago Palace Way, Okota-Isolo, Lagos, Nigeria",
+    "whatsapp": "https://wa.me/2348066608276"
+  }
+}
